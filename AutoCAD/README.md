@@ -1,3 +1,4 @@
+#Einbinden der AutoCAD-Vorlage
 Ein einfacher Weg die Vorlage als Standardvorlage in AutoCAD eintragen ist wie folgt:
 Nachdem die Vorlagendatei (Dateiendung .dwt) heruntergeladen wurde, diese mit einem Doppelklick öffen. Sollte nicht die gewünschte AutoCAD-Version starten, diese über "Öffen mit..." auswählen.
 In AutoCAD "Speichern unter -> Zeichnungsvorlage" auswählen. Dadurch wird automatisch ein Verzeichnis geöffnet in welchem AutoCAD Vorlagen sucht.
